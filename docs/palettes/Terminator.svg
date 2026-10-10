@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="978" viewBox="0 0 920 978" font-family="Hack, 'Hack Nerd Font Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace">
+<rect width="920" height="978" rx="10" fill="#2b2b2b"/>
+<rect width="920" height="32" rx="10" fill="#3c3c3c"/>
+<rect y="22" width="920" height="10" fill="#3c3c3c"/>
+<line x1="829" y1="19" x2="839" y2="19" stroke="#ddd" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+<rect x="859" y="11" width="10" height="10" stroke="#ddd" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+<path d="M889 11 L899 21 M899 11 L889 21" stroke="#ddd" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+<text x="16" y="21" font-size="13" fill="#ddd">Terminator Ambiance — Konsole</text>
+<rect y="32" width="920" height="472" fill="#000000"/>
+<text x="16" y="62" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ ls -l</tspan></text>
+<text x="16" y="82" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">drwxr-xr-x  </tspan><tspan fill="#3465A4" font-weight="bold">src</tspan><tspan fill="#FFFFFF">/</tspan></text>
+<text x="16" y="102" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">-rwxr-xr-x  </tspan><tspan fill="#4E9A06" font-weight="bold">build.sh</tspan></text>
+<text x="16" y="122" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">lrwxrwxrwx  </tspan><tspan fill="#06989A" font-weight="bold">latest</tspan><tspan fill="#FFFFFF"> -&gt; </tspan><tspan fill="#4E9A06" font-weight="bold">build.sh</tspan></text>
+<text x="16" y="142" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">-rw-r--r--  </tspan><tspan fill="#75507B" font-weight="bold">logo.png</tspan></text>
+<text x="16" y="162" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">-rw-r--r--  </tspan><tspan fill="#CC0000" font-weight="bold">release.tar.gz</tspan></text>
+<text x="16" y="182" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF">-rw-r--r--  README.md</tspan></text>
+<text x="16" y="202" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ git log --oneline -2</tspan></text>
+<text x="16" y="222" font-size="14" xml:space="preserve"><tspan fill="#C4A000">5ae30d3 (</tspan><tspan fill="#06989A" font-weight="bold">HEAD -&gt; </tspan><tspan fill="#4E9A06" font-weight="bold">main</tspan><tspan fill="#C4A000">, </tspan><tspan fill="#CC0000" font-weight="bold">origin/main</tspan><tspan fill="#C4A000">)</tspan><tspan fill="#FFFFFF"> Add bl1nk color scheme</tspan></text>
+<text x="16" y="242" font-size="14" xml:space="preserve"><tspan fill="#C4A000">ff41695</tspan><tspan fill="#FFFFFF"> Add README and initial color schemes</tspan></text>
+<text x="16" y="262" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ git status -s</tspan></text>
+<text x="16" y="282" font-size="14" xml:space="preserve"><tspan fill="#4E9A06">A </tspan><tspan fill="#FFFFFF"> konsole/new.colorscheme</tspan></text>
+<text x="16" y="302" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF"> </tspan><tspan fill="#CC0000">M</tspan><tspan fill="#FFFFFF"> README.md</tspan></text>
+<text x="16" y="322" font-size="14" xml:space="preserve"><tspan fill="#CC0000">??</tspan><tspan fill="#FFFFFF"> notes.txt</tspan></text>
+<text x="16" y="342" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ git diff</tspan></text>
+<text x="16" y="362" font-size="14" xml:space="preserve"><tspan fill="#FFFFFF" font-weight="bold">diff --git a/README.md b/README.md</tspan></text>
+<text x="16" y="382" font-size="14" xml:space="preserve"><tspan fill="#06989A">@@ -1,3 +1,3 @@</tspan><tspan fill="#FFFFFF"> # Konsole Configs</tspan></text>
+<text x="16" y="402" font-size="14" xml:space="preserve"><tspan fill="#CC0000">-Custom color schemes</tspan></text>
+<text x="16" y="422" font-size="14" xml:space="preserve"><tspan fill="#4E9A06">+Custom color schemes and profiles</tspan></text>
+<text x="16" y="442" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ grep -rn color .</tspan></text>
+<text x="16" y="462" font-size="14" xml:space="preserve"><tspan fill="#75507B">./README.md</tspan><tspan fill="#06989A">:</tspan><tspan fill="#4E9A06">3</tspan><tspan fill="#06989A">:</tspan><tspan fill="#FFFFFF">Custom </tspan><tspan fill="#CC0000" font-weight="bold">color</tspan><tspan fill="#FFFFFF"> schemes and profiles</tspan></text>
+<text x="16" y="482" font-size="14" xml:space="preserve"><tspan fill="#4E9A06" font-weight="bold">john@fedora</tspan><tspan fill="#FFFFFF">:</tspan><tspan fill="#3465A4" font-weight="bold">~/konsole-configs</tspan><tspan fill="#75507B"> (main)</tspan><tspan fill="#FFFFFF"> $ git p</tspan><tspan fill="#2E3436">ush origin main</tspan><tspan fill="#FFFFFF">█</tspan></text>
+<rect x="0" y="514" width="920" height="454" fill="#000000"/>
+<text x="16" y="536" font-size="11" letter-spacing="2" fill="#FFFFFF" opacity="0.6">NORMAL</text>
+<text x="476" y="536" font-size="11" letter-spacing="2" fill="#FFFFFF" opacity="0.6">BOLD / INTENSE</text>
+<rect x="16" y="556" width="28" height="28" rx="5" fill="#2E3436" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="568" font-size="12" fill="#FFFFFF">Black</text>
+<text x="54" y="582" font-size="10" fill="#FFFFFF" opacity="0.55">Color0 #2E3436</text>
+<rect x="222" y="560" width="150" height="20" rx="3" fill="#D3D7CF"/>
+<text x="226" y="575" font-size="13" fill="#2E3436">black text on bars</text>
+<rect x="476" y="556" width="28" height="28" rx="5" fill="#2E3436" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="568" font-size="12" fill="#FFFFFF">Bright Black</text>
+<text x="514" y="582" font-size="10" fill="#FFFFFF" opacity="0.55">Color0Intense #2E3436</text>
+<text x="686" y="575" font-size="13" fill="#2E3436" font-weight="bold">autosuggestions, comments</text>
+<rect x="16" y="596" width="28" height="28" rx="5" fill="#CC0000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="608" font-size="12" fill="#FFFFFF">Red</text>
+<text x="54" y="622" font-size="10" fill="#FFFFFF" opacity="0.55">Color1 #CC0000</text>
+<text x="226" y="615" font-size="13" fill="#CC0000">errors, untracked, − lines</text>
+<rect x="476" y="596" width="28" height="28" rx="5" fill="#CC0000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="608" font-size="12" fill="#FFFFFF">Bright Red</text>
+<text x="514" y="622" font-size="10" fill="#FFFFFF" opacity="0.55">Color1Intense #CC0000</text>
+<text x="686" y="615" font-size="13" fill="#CC0000" font-weight="bold">archives, grep matches</text>
+<rect x="16" y="636" width="28" height="28" rx="5" fill="#4E9A06" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="648" font-size="12" fill="#FFFFFF">Green</text>
+<text x="54" y="662" font-size="10" fill="#FFFFFF" opacity="0.55">Color2 #4E9A06</text>
+<text x="226" y="655" font-size="13" fill="#4E9A06">staged files, + lines</text>
+<rect x="476" y="636" width="28" height="28" rx="5" fill="#4E9A06" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="648" font-size="12" fill="#FFFFFF">Bright Green</text>
+<text x="514" y="662" font-size="10" fill="#FFFFFF" opacity="0.55">Color2Intense #4E9A06</text>
+<text x="686" y="655" font-size="13" fill="#4E9A06" font-weight="bold">executables, user@host</text>
+<rect x="16" y="676" width="28" height="28" rx="5" fill="#C4A000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="688" font-size="12" fill="#FFFFFF">Yellow</text>
+<text x="54" y="702" font-size="10" fill="#FFFFFF" opacity="0.55">Color3 #C4A000</text>
+<text x="226" y="695" font-size="13" fill="#C4A000">commit hashes, warnings</text>
+<rect x="476" y="676" width="28" height="28" rx="5" fill="#C4A000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="688" font-size="12" fill="#FFFFFF">Bright Yellow</text>
+<text x="514" y="702" font-size="10" fill="#FFFFFF" opacity="0.55">Color3Intense #C4A000</text>
+<text x="686" y="695" font-size="13" fill="#C4A000" font-weight="bold">devices (/dev/sda)</text>
+<rect x="16" y="716" width="28" height="28" rx="5" fill="#3465A4" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="728" font-size="12" fill="#FFFFFF">Blue</text>
+<text x="54" y="742" font-size="10" fill="#FFFFFF" opacity="0.55">Color4 #3465A4</text>
+<text x="226" y="735" font-size="13" fill="#3465A4">plain blue text (rare)</text>
+<rect x="476" y="716" width="28" height="28" rx="5" fill="#3465A4" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="728" font-size="12" fill="#FFFFFF">Bright Blue</text>
+<text x="514" y="742" font-size="10" fill="#FFFFFF" opacity="0.55">Color4Intense #3465A4</text>
+<text x="686" y="735" font-size="13" fill="#3465A4" font-weight="bold">folders, prompt path</text>
+<rect x="16" y="756" width="28" height="28" rx="5" fill="#75507B" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="768" font-size="12" fill="#FFFFFF">Magenta</text>
+<text x="54" y="782" font-size="10" fill="#FFFFFF" opacity="0.55">Color5 #75507B</text>
+<text x="226" y="775" font-size="13" fill="#75507B">grep filenames, git branch</text>
+<rect x="476" y="756" width="28" height="28" rx="5" fill="#75507B" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="768" font-size="12" fill="#FFFFFF">Bright Magenta</text>
+<text x="514" y="782" font-size="10" fill="#FFFFFF" opacity="0.55">Color5Intense #75507B</text>
+<text x="686" y="775" font-size="13" fill="#75507B" font-weight="bold">images, media, sockets</text>
+<rect x="16" y="796" width="28" height="28" rx="5" fill="#06989A" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="808" font-size="12" fill="#FFFFFF">Cyan</text>
+<text x="54" y="822" font-size="10" fill="#FFFFFF" opacity="0.55">Color6 #06989A</text>
+<text x="226" y="815" font-size="13" fill="#06989A">diff @@ hunks, grep : sep</text>
+<rect x="476" y="796" width="28" height="28" rx="5" fill="#06989A" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="808" font-size="12" fill="#FFFFFF">Bright Cyan</text>
+<text x="514" y="822" font-size="10" fill="#FFFFFF" opacity="0.55">Color6Intense #06989A</text>
+<text x="686" y="815" font-size="13" fill="#06989A" font-weight="bold">symlinks, HEAD -&gt;</text>
+<rect x="16" y="836" width="28" height="28" rx="5" fill="#D3D7CF" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="848" font-size="12" fill="#FFFFFF">White</text>
+<text x="54" y="862" font-size="10" fill="#FFFFFF" opacity="0.55">Color7 #D3D7CF</text>
+<text x="226" y="855" font-size="13" fill="#D3D7CF">light gray in TUI apps</text>
+<rect x="476" y="836" width="28" height="28" rx="5" fill="#D3D7CF" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="848" font-size="12" fill="#FFFFFF">Bright White</text>
+<text x="514" y="862" font-size="10" fill="#FFFFFF" opacity="0.55">Color7Intense #D3D7CF</text>
+<text x="686" y="855" font-size="13" fill="#D3D7CF" font-weight="bold">bold white text</text>
+<rect x="16" y="876" width="28" height="28" rx="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="888" font-size="12" fill="#FFFFFF">Foreground</text>
+<text x="54" y="902" font-size="10" fill="#FFFFFF" opacity="0.55">Foreground #FFFFFF</text>
+<text x="226" y="895" font-size="13" fill="#FFFFFF">regular text &amp; files</text>
+<rect x="476" y="876" width="28" height="28" rx="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="888" font-size="12" fill="#FFFFFF">Foreground Intense</text>
+<text x="514" y="902" font-size="10" fill="#FFFFFF" opacity="0.55">ForegroundIntense #FFFFFF</text>
+<text x="686" y="895" font-size="13" fill="#FFFFFF" font-weight="bold">bold text, diff headers</text>
+<rect x="16" y="916" width="28" height="28" rx="5" fill="#000000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="54" y="928" font-size="12" fill="#FFFFFF">Background</text>
+<text x="54" y="942" font-size="10" fill="#FFFFFF" opacity="0.55">Background #000000</text>
+<rect x="222" y="920" width="158" height="20" rx="3" fill="#000000" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="226" y="935" font-size="13" fill="#FFFFFF">the terminal canvas</text>
+<rect x="476" y="916" width="28" height="28" rx="5" fill="#555753" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="514" y="928" font-size="12" fill="#FFFFFF">Background Intense</text>
+<text x="514" y="942" font-size="10" fill="#FFFFFF" opacity="0.55">BackgroundIntense #555753</text>
+<rect x="682" y="920" width="198" height="20" rx="3" fill="#555753" stroke="#FFFFFF" stroke-opacity="0.35"/>
+<text x="686" y="935" font-size="13" fill="#FFFFFF" font-weight="bold">intense bg (rarely seen)</text>
+</svg>
